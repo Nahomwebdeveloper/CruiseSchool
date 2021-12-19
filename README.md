@@ -1,0 +1,2 @@
+# CruiseSchool
+A new project
